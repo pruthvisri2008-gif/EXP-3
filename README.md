@@ -39,23 +39,28 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-<img width="1920" height="1080" alt="wireexp2" src="https://github.com/user-attachments/assets/2e19907b-6ff5-452f-8a3a-c682783fa85f" />
-<img width="1920" height="1080" alt="wireexp2" src="https://github.com/user-attachments/assets/fd9e2821-413d-45ee-a2ae-155db40e6c37" />
+Direct connection: CIRCUIT DIAGRAM:
+<img width="1920" height="1080" alt="wireexp2" src="https://github.com/user-attachments/assets/03490322-38ce-4b40-9b62-fc4397fd82cb" />
+
+<img width="1920" height="1080" alt="wire" src="https://github.com/user-attachments/assets/ef444143-db7f-4e0b-8a9d-ed7e987115e7" />
 
 
 Tabulation:1
-<img width="1920" height="1080" alt="wireexp2" src="https://github.com/user-attachments/assets/5e5b0756-5d0e-4637-87e0-ec332ded133c" />
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/fe20c7cc-f0c8-4034-b23d-d3ec802b2745" />
 
 	
 Cross connection: CIRCUIT DIAGRAM:
-<img width="1905" height="1020" alt="cross wire exp2" src="https://github.com/user-attachments/assets/f18bb53e-9ecb-4c0a-b88b-c2009fd4365e" />
-<img width="1920" height="1080" alt="cross wire exp 2" src="https://github.com/user-attachments/assets/31e71ccd-c264-473d-b96c-af0da04f046d" />
+
+<img width="1905" height="1020" alt="cross wire exp2" src="https://github.com/user-attachments/assets/fe4ea130-ac7e-494a-b90b-c958db395845" />
+
+<img width="1920" height="1080" alt="cross wire exp 2" src="https://github.com/user-attachments/assets/54e70eaa-2d02-463f-80a4-41ff357ae9f5" />
+
 
 
 Tabulation:2
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/20955d38-7f33-48b0-9d9c-77f1995ec807" />
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/11426216-23a4-4f5b-b3cf-b7575a82d5f1" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
